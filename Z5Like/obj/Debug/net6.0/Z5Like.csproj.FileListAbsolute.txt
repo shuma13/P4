@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\bin\Debug\net6.0\Z5Like.exe
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\bin\Debug\net6.0\Z5Like.deps.json
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\bin\Debug\net6.0\Z5Like.runtimeconfig.json
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\bin\Debug\net6.0\Z5Like.dll
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\bin\Debug\net6.0\Z5Like.pdb
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\obj\Debug\net6.0\Z5Like.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\obj\Debug\net6.0\Z5Like.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\obj\Debug\net6.0\Z5Like.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\obj\Debug\net6.0\Z5Like.AssemblyInfo.cs
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\obj\Debug\net6.0\Z5Like.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\obj\Debug\net6.0\Z5Like.dll
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\obj\Debug\net6.0\refint\Z5Like.dll
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\obj\Debug\net6.0\Z5Like.pdb
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\obj\Debug\net6.0\Z5Like.genruntimeconfig.cache
+C:\Users\User\Desktop\Phhh\Kate\Z5Like\obj\Debug\net6.0\ref\Z5Like.dll
