@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Phhh\Kate\Z4div\bin\Debug\net6.0\Z4div.exe
+C:\Users\User\Desktop\Phhh\Kate\Z4div\bin\Debug\net6.0\Z4div.deps.json
+C:\Users\User\Desktop\Phhh\Kate\Z4div\bin\Debug\net6.0\Z4div.runtimeconfig.json
+C:\Users\User\Desktop\Phhh\Kate\Z4div\bin\Debug\net6.0\Z4div.dll
+C:\Users\User\Desktop\Phhh\Kate\Z4div\bin\Debug\net6.0\Z4div.pdb
+C:\Users\User\Desktop\Phhh\Kate\Z4div\obj\Debug\net6.0\Z4div.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Phhh\Kate\Z4div\obj\Debug\net6.0\Z4div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Phhh\Kate\Z4div\obj\Debug\net6.0\Z4div.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Phhh\Kate\Z4div\obj\Debug\net6.0\Z4div.AssemblyInfo.cs
+C:\Users\User\Desktop\Phhh\Kate\Z4div\obj\Debug\net6.0\Z4div.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Phhh\Kate\Z4div\obj\Debug\net6.0\Z4div.dll
+C:\Users\User\Desktop\Phhh\Kate\Z4div\obj\Debug\net6.0\refint\Z4div.dll
+C:\Users\User\Desktop\Phhh\Kate\Z4div\obj\Debug\net6.0\Z4div.pdb
+C:\Users\User\Desktop\Phhh\Kate\Z4div\obj\Debug\net6.0\Z4div.genruntimeconfig.cache
+C:\Users\User\Desktop\Phhh\Kate\Z4div\obj\Debug\net6.0\ref\Z4div.dll
