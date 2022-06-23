@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Phhh\Kate\Zsum\bin\Debug\net6.0\Zsum.exe
+C:\Users\User\Desktop\Phhh\Kate\Zsum\bin\Debug\net6.0\Zsum.deps.json
+C:\Users\User\Desktop\Phhh\Kate\Zsum\bin\Debug\net6.0\Zsum.runtimeconfig.json
+C:\Users\User\Desktop\Phhh\Kate\Zsum\bin\Debug\net6.0\Zsum.dll
+C:\Users\User\Desktop\Phhh\Kate\Zsum\bin\Debug\net6.0\Zsum.pdb
+C:\Users\User\Desktop\Phhh\Kate\Zsum\obj\Debug\net6.0\Zsum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Phhh\Kate\Zsum\obj\Debug\net6.0\Zsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Phhh\Kate\Zsum\obj\Debug\net6.0\Zsum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Phhh\Kate\Zsum\obj\Debug\net6.0\Zsum.AssemblyInfo.cs
+C:\Users\User\Desktop\Phhh\Kate\Zsum\obj\Debug\net6.0\Zsum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Phhh\Kate\Zsum\obj\Debug\net6.0\Zsum.dll
+C:\Users\User\Desktop\Phhh\Kate\Zsum\obj\Debug\net6.0\refint\Zsum.dll
+C:\Users\User\Desktop\Phhh\Kate\Zsum\obj\Debug\net6.0\Zsum.pdb
+C:\Users\User\Desktop\Phhh\Kate\Zsum\obj\Debug\net6.0\Zsum.genruntimeconfig.cache
+C:\Users\User\Desktop\Phhh\Kate\Zsum\obj\Debug\net6.0\ref\Zsum.dll
